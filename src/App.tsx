@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import * as React from "react";
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Landing from './screen/Landing';
 import Game from './screen/Game';
